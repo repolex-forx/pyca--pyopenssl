@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyca/pyopenssl/commit/567808adb4d859323424c3a6bc183e13a1ac59e8",
       "git:hexsha": "567808adb4d859323424c3a6bc183e13a1ac59e8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pyca/pyopenssl/commit/0146d447e63a737b4f05a1164d5950eff68543e7",
