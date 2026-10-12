@@ -1,0 +1,11 @@
+{
+  "org": "pyca",
+  "repo": "pyopenssl",
+  "versions": [
+    {
+      "commit": "567808adb4d859323424c3a6bc183e13a1ac59e8",
+      "tag": "",
+      "parsed_at": "2026-10-12T03:04:32.677737+00:00"
+    }
+  ]
+}
