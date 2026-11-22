@@ -1,0 +1,7 @@
+[2026-11-22T03:02:33Z] === AST ITERATION 1 START | repo=pyca/pyopenssl sha=f47de968 ===
+[2026-11-22T03:02:33Z] [iter=1] PHASE START: ast repo=pyca/pyopenssl sha=f47de968
+[2026-11-22T03:02:33Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T03:03:09Z] [iter=1] AST chunks built count=1 triples=337683
+[2026-11-22T03:03:09Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/f47de9688d03411b6e73e6023d21d8335947b46b/.complete
+[2026-11-22T03:03:09Z] [iter=1] PHASE END: ast elapsed_s=37 elapsed_min=0.6
+[2026-11-22T03:03:09Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
